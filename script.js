@@ -19,7 +19,6 @@ let jsonDatabase = [
     "bandPosition" : "keyboard",
     "characterDescription": "Because of all of the things that is going on his personal life, Yang Seok-hyeong rather spends his time alone watching variety/comedy TV shows. But after his closest friends start working at Yulje Hospital, he suggested that they should re-create their band in college as a way to distract himself from his personal problems. Furthermore, because of his big body build, quietness, and calm-spoken voice, everyone nicknamed him “Bear”.",
     "actorName" : "Kim Dae-myeong"
-
   },
 
   {
@@ -39,7 +38,6 @@ let jsonDatabase = [
     "characterRole" : "Professor of Hepato-Biliary-Pancreatic Surgery",
     "bandPosition" : "lead vocalist & guitarist",
     "characterDescription": "Lee Ik-jun is almost a perfect man, he is loved by everyone in the hospital and a genius at everything (he can go clubbing all night and still ace the exam the next day - true story). However, he is missing one thing, a good love life...although he has a very adorable son named U-ju.",
-
     "actorName" : "Jo Jeong-seok"
   },
 
